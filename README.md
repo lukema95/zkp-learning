@@ -3,6 +3,7 @@
 Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与笔记 📒
 
 # 💾学习资料
+- [Zero Knowledge Proofs](https://zk-learning.org/): 斯坦福大学ZKP MOOC
 - [ABCDE ZK Hacker Camp Curriculum Schedule](https://abcdelabs.github.io/zkcamp) - ABCDE ZK 课程
 - [awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - Matter Lab 的 ZKP 资源汇总
 - [Scoll Blog](https://scroll.io/blog) - Scoll的博客
