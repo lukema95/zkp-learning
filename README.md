@@ -15,14 +15,16 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [zk-SNARKs: A Gentle Introduction](https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf) - ZK SNARKs 论文
 - [ZKP 系列学习文章](https://airtable.com/shrErOf7fj5aPZONr/tblKK5oXs9qpjnVKh) - 循序渐进的ZKP学习资料
 - [moonmath-manual](https://github.com/LeastAuthority/moonmath-manual) - 为任何有兴趣了解和释放 zk-SNARK 潜力的人（从初学者到专家）提供的资源。
+- [Baby SNARK](https://github.com/initc3/babySNARK) - SNARK教程
 
 # 🔧开源工具
 - [circom](https://github.com/iden3/circom) - zkSnark 电路编译器
 - [libsnark](https://github.com/scipr-lab/libsnark) - C++ library for zkSNARKs
 - [libsnark-tutorial](https://github.com/howardwu/libsnark-tutorial) - zkSNARK 教程和开发环境
+- [plonkathon](https://github.com/0xPARC/plonkathon) - 教育版本的python plonk实现
 
 # 🔥相关项目
-- [Sismo](https://www.sismo.io/) - The Sismo Protocol issues ZK Badges (SBTs) - a primitive to integrate reputation to web3 apps, respecting users privacy and sovereignty([sismo-core / sismo-badges](https://github.com/sismo-core/sismo-badges))
+- [Sismo](https://www.sismo.io/) - The Sismo Protocol issues ZK Badges (SBTs) - a primitive to integrate reputation to web3 apps, respecting users privacy and sovereignty([sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges))
 - [zkMove Project](https://www.zkmove.net/) - A zero-knowledge proof friendly Move language runtime environment.
 - [Scroll](https://scroll.io/) - The native zkEVM
 - [zCloak Network](https://zcloak.network/) - Deliver the Web3 Dream of Self-Sovereignty—Privacy-first DID and verifiable computation infrastructure.
@@ -49,3 +51,4 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [深入理解zk-STARK证明系统](https://trapdoor-tech.github.io/zkstark-book/)
 - [0xScope Labs 首期Tech Studio，讲述zk的过去和未来](https://mirror.xyz/0xB134928B00c6c76b939D8715a6dc1e1dAe5B5b6e/D2_U2JQTZy10dSke1u5SjoIEXOVOy-uRkZ80NSsQlb8)
 - [ZERO-KNOWLEDGE ROLLUPS-ethereum.org](https://ethereum.org/en/developers/docs/scaling/zk-rollups/)
+- [PLONK by Hand (Part 1: Setup)](https://research.metastate.dev/plonk-by-hand-part-1/)
