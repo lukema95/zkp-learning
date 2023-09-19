@@ -16,6 +16,7 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [ZKP 系列学习文章](https://airtable.com/shrErOf7fj5aPZONr/tblKK5oXs9qpjnVKh) - 循序渐进的ZKP学习资料
 - [moonmath-manual](https://github.com/LeastAuthority/moonmath-manual) - 为任何有兴趣了解和释放 zk-SNARK 潜力的人（从初学者到专家）提供的资源。
 - [Baby SNARK](https://github.com/initc3/babySNARK) - SNARK教程
+- [ZK Shanghai 2023](https://zkshanghai.xyz/) - 一套中文 ZKP 学习课程
 
 # 🔧开源工具
 - [circom](https://github.com/iden3/circom) - zkSnark 电路编译器
