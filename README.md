@@ -25,6 +25,7 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [libsnark](https://github.com/scipr-lab/libsnark) - C++ library for zkSNARKs
 - [libsnark-tutorial](https://github.com/howardwu/libsnark-tutorial) - zkSNARK 教程和开发环境
 - [plonkathon](https://github.com/0xPARC/plonkathon) - 教育版本的python plonk实现
+- [zkrepl](https://zkrepl.dev/) - 在线网页版电路IDE
 
 # 🔥相关项目
 - [Sismo](https://www.sismo.io/) - The Sismo Protocol issues ZK Badges (SBTs) - a primitive to integrate reputation to web3 apps, respecting users privacy and sovereignty([sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges))
