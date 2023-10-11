@@ -19,6 +19,7 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [Baby SNARK](https://github.com/initc3/babySNARK) - SNARK教程
 - [ZK Shanghai 2023](https://zkshanghai.xyz/) - 一套中文 ZKP 学习课程
 - [zkp-co-learn](https://github.com/zkp-co-learning/zkp-co-learn) - 一个零知识证明共学会
+- [Awesome ZKP](https://awesomezkp.notion.site/) - 一个零知识证明Notion知识库
 
 # 🔧开源工具
 - [circom](https://github.com/iden3/circom) - zkSnark 电路编译器
