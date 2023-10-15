@@ -3,11 +3,11 @@
 Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与笔记 📒
 
 # 💾学习资料
+- [learn.0xparc.org](https://learn.0xparc.org/) - 0xPARC的应用ZK学习小组，包含ZK及电路系列课程
 - [Zero Knowledge Proofs](https://zk-learning.org/) - 斯坦福大学ZKP MOOC
 - [[MIT IAP 2023] Modern Zero Knowledge Cryptography](https://zkiap.com/) - MIT零知识证明系列课程
 - [ABCDE ZK Hacker Camp Curriculum Schedule](https://abcdelabs.github.io/zkcamp) - ABCDE ZK 课程
 - [awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - Matter Lab 的 ZKP 资源汇总
-- [Scoll Blog](https://scroll.io/blog) - Scoll的博客
 - [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519) - 以太坊社区有关ZKP的教程资源
 - [Demystifying Zero Knowledge Proofs [FINAL]](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.g443f641f0b_1_89) - ZKP 学习PPT
 - [ZKP Science](https://zkp.science/) - 权威ZKP学术研究
@@ -18,7 +18,7 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [moonmath-manual](https://github.com/LeastAuthority/moonmath-manual) - 为任何有兴趣了解和释放 zk-SNARK 潜力的人（从初学者到专家）提供的资源。
 - [Baby SNARK](https://github.com/initc3/babySNARK) - SNARK教程
 - [ZK Shanghai 2023](https://zkshanghai.xyz/) - 一套中文 ZKP 学习课程
-- [zkp-co-learn](https://github.com/zkp-co-learning/zkp-co-learn) - 一个零知识证明共学会
+- [zkp-co-learn](https://github.com/zkp-co-learning/zkp-co-learn) - 一个中文零知识证明共学会
 - [Awesome ZKP](https://awesomezkp.notion.site/) - 一个零知识证明Notion知识库
 
 # 🔧开源工具
@@ -41,7 +41,6 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 
 
 # 📜文章博客
-- [从零开始学习 zk-SNARK（一）——多项式的性质与证明](https://secbit.io/blog/2019/12/25/learn-zk-snark-from-zero-part-one/)
 - [零知识证明学习资源汇总](https://secbit.io/blog/2019/11/07/zkp-learning-resources/)
 - [L2汇总的汇总](https://h0m83hhc6r.feishu.cn/docs/doccnp6vxEcdn6CYT9725nEldfb#)
 - [关于零知识应用安全性的几点思考](https://mirror.xyz/bubb1es.eth/V9pqaI7l5U08yq-kRhL6kYcrpCALMYuxJQ3TP-Pa0iA)
