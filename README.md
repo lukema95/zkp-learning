@@ -60,3 +60,4 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [Exploring Elliptic Curve Pairings - Vitalik Buterin](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - [Zk-SNARKs: Under the Hood - Vitalik Buterin](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 - [Understanding PLONK - Vitalik Buterin](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [ZkVM: fast, private, flexible blockchain contracts](https://github.com/stellar/slingshot/blob/main/zkvm/docs/zkvm-design.md)
