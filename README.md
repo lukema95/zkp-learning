@@ -20,6 +20,10 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [ZK Shanghai 2023](https://zkshanghai.xyz/) - 一套中文 ZKP 学习课程
 - [zkp-co-learn](https://learn.z2o-k7e.world/) - 中文零知识证明系列课程
 - [Awesome ZKP](https://awesomezkp.notion.site/) - 一个零知识证明Notion知识库
+- [Halo2 Book](https://zcash.github.io/halo2/index.html) - zcash的Halo2教程
+- [Halo2 Book(中文)](https://trapdoor-tech.github.io/halo2-book-chinese/index.html) - zcash的Halo2教程
+- [ZKVM book](https://hackmd.io/@liangcc/zkvmbook/https%3A%2F%2Fhackmd.io%2FHfCsKWfWRT-B_k5j3LjIVw) - ZKVM 知识介绍
+- 
 
 # 🔧开源工具
 - [circom](https://github.com/iden3/circom) - zkSnark 电路编译器
@@ -27,6 +31,7 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [libsnark-tutorial](https://github.com/howardwu/libsnark-tutorial) - zkSNARK 教程和开发环境
 - [plonkathon](https://github.com/0xPARC/plonkathon) - 教育版本的python plonk实现
 - [zkrepl](https://zkrepl.dev/) - 在线网页版电路IDE
+- [ZK-Garage/plonk](https://github.com/ZK-Garage/plonk) - 一个使用arkworks作为后端的纯Rust PLONK实现
 
 # 🔥相关项目
 - [Sismo](https://www.sismo.io/) - The Sismo Protocol issues ZK Badges (SBTs) - a primitive to integrate reputation to web3 apps, respecting users privacy and sovereignty([sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges))
