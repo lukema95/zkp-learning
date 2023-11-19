@@ -23,19 +23,23 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [Halo2 Book](https://zcash.github.io/halo2/index.html) - zcash的Halo2教程
 - [Halo2 Book(中文)](https://trapdoor-tech.github.io/halo2-book-chinese/index.html) - zcash的Halo2教程
 - [ZKVM book](https://hackmd.io/@liangcc/zkvmbook/https%3A%2F%2Fhackmd.io%2FHfCsKWfWRT-B_k5j3LjIVw) - ZKVM 知识介绍
-- 
 
 # 🔧开源工具
 - [circom](https://github.com/iden3/circom) - zkSnark 电路编译器
+- [zcash/halo2](https://github.com/zcash/halo2) - Halo2零知识证明系统
 - [libsnark](https://github.com/scipr-lab/libsnark) - C++ library for zkSNARKs
 - [libsnark-tutorial](https://github.com/howardwu/libsnark-tutorial) - zkSNARK 教程和开发环境
 - [plonkathon](https://github.com/0xPARC/plonkathon) - 教育版本的python plonk实现
 - [zkrepl](https://zkrepl.dev/) - 在线网页版电路IDE
 - [ZK-Garage/plonk](https://github.com/ZK-Garage/plonk) - 一个使用arkworks作为后端的纯Rust PLONK实现
+- [privacy-scaling-explorations/zkevm-circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits) - zkevm 电路实现
+- [zkemail/zk-email-verify](https://github.com/zkemail/zk-email-verify) - 验证具有与电子邮件域相同的信任假设的电子邮件
+- [zkp-application/circom-rsa-verify](https://github.com/zkp-application/circom-rsa-verify) - Zero Knowledge Proof for RSA
 
 # 🔥相关项目
 - [Sismo](https://www.sismo.io/) - The Sismo Protocol issues ZK Badges (SBTs) - a primitive to integrate reputation to web3 apps, respecting users privacy and sovereignty([sismo-core/sismo-badges](https://github.com/sismo-core/sismo-badges))
 - [zkMove Project](https://www.zkmove.net/) - A zero-knowledge proof friendly Move language runtime environment.
+- [DelphinusLab/zkWasm](https://github.com/DelphinusLab/zkWasm) - zkWasm
 - [Scroll](https://scroll.io/) - The native zkEVM
 - [zCloak Network](https://zcloak.network/) - Deliver the Web3 Dream of Self-Sovereignty—Privacy-first DID and verifiable computation infrastructure.
 - [Manta Network](https://www.manta.network/) - The Privacy Hub for Web3
@@ -43,6 +47,10 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [Zecrey Protocol](https://www.zecrey.com/) - zkRollup based Layer 2 protocol featuring privacy and scalability.
 - [zkSync](https://zksync.io/) - zkRollup
 - [StarkNet](https://www.starknet.io/en) - zkRollup
+- [zkemail/halo2-zk-email](https://github.com/zkemail/halo2-zk-email) - Email verification circuit in halo2
+- [mina](https://github.com/MinaProtocol/mina) - Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.
+- [zcash](https://github.com/zcash/zcash) - Anonymous coin
+- [risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 
 
 # 📜文章博客
