@@ -23,6 +23,7 @@ Zero Knowledge Proof Learning Resources and Notes 零知识证明学习资源与
 - [Halo2 Book](https://zcash.github.io/halo2/index.html) - zcash的Halo2教程
 - [Halo2 Book(中文)](https://trapdoor-tech.github.io/halo2-book-chinese/index.html) - zcash的Halo2教程
 - [ZKVM book](https://hackmd.io/@liangcc/zkvmbook/https%3A%2F%2Fhackmd.io%2FHfCsKWfWRT-B_k5j3LjIVw) - ZKVM 知识介绍
+- [ZK Jargon Decoder](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html) - ZK Jargon Decoder 旨在成为密码学和零知识文献中常见术语的字典和参考指南
 
 # 🔧开源工具
 - [circom](https://github.com/iden3/circom) - zkSnark 电路编译器
